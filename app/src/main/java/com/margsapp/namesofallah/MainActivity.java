@@ -112,7 +112,6 @@ public class MainActivity extends AppCompatActivity {
         arrayList.add(new NameModel("المجيد","","The Illustrious","65.Al-Majid",R.raw.majid));
         arrayList.add(new NameModel("الواحد"," ","The Single","66.Al-Wahid",R.raw.wahid));
         arrayList.add(new NameModel("ٱلْأَحَد","","The Unique","67.Al-Ahad",R.raw.ahad));
-        //AL-AHAD 67
         arrayList.add(new NameModel("الصمد","","The Eternal","68.As-Samad",R.raw.samad));
         arrayList.add(new NameModel("القادر"," ","The All-Powerful","69.Al-Qadir",R.raw.qadir));
         arrayList.add(new NameModel("المقتدر","","The Determiner","70.Al-Muqtadir",R.raw.muqtadir));

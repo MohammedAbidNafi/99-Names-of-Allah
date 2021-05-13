@@ -1,6 +1,10 @@
 # 99-Names-of-Allah
 
+The 99 names of Allah are called 'Asma Ul Husna' (Pronounce Asma Al Husna) which in Arabic means ‘The Most Beautiful Names’. These islamic names are attributes of Allah SWT by which Muslims regard God in Islam.
 
+This app contains 99 names of Allah with English Meaning, English Transliteration With Audio. 
+This app is completely free but Ad Supported if you want to support us support us by leaving a review.
+And you can use this app without internet you can use it offline.  
 
 # MIT License
 

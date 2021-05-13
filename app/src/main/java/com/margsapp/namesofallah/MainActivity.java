@@ -146,16 +146,7 @@ public class MainActivity extends AppCompatActivity {
         arrayList.add(new NameModel("الصبور","","The Patient","99.As-Sabur",R.raw.sabur));
 
 
-
-
-
-
-
-
-
-
         arrayList.add(new NameModel("Thank you for using our app","","","",R.raw.thankyou));
-
 
 
         RecyclerAdapter adapter=new RecyclerAdapter(MainActivity.this,arrayList);

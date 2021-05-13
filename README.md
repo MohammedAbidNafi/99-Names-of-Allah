@@ -6,6 +6,20 @@ This app contains 99 names of Allah with English Meaning, English Transliteratio
 This app is completely free but Ad Supported if you want to support us support us by leaving a review.
 And you can use this app without internet you can use it offline.  
 
+
+## Ways to Contribute 
+1. Create an issue to discuss about your idea.(https://github.com/MohammedAbidNafi/MessengerByMargs/issues)
+2. Suggest any feature or suggestion.(https://github.com/MohammedAbidNafi/MessengerByMargs/issues)
+3. Have a discussion in (https://github.com/MohammedAbidNafi/MessengerByMargs/discussions)
+
+### To make changes to code
+
+1. Fork it (https://github.com/MohammedAbidNafi/MessengerByMargs/fork)
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new Pull Request
+
 # MIT License
 
 Copyright (c) 2021 Mohammed Abid Nafi

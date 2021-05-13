@@ -12,13 +12,13 @@ And you can use this app without internet you can use it offline.
 3. Dark Mode 
 
 ## Ways to Contribute 
-1. Create an issue to discuss about your idea.(https://github.com/MohammedAbidNafi/MessengerByMargs/issues)
-2. Suggest any feature or suggestion.(https://github.com/MohammedAbidNafi/MessengerByMargs/issues)
-3. Have a discussion in (https://github.com/MohammedAbidNafi/MessengerByMargs/discussions)
+1. Create an issue to discuss about your idea.(https://github.com/MohammedAbidNafi/99-Names-of-Allah/issues)
+2. Suggest any feature or suggestion.(https://github.com/MohammedAbidNafi/99-Names-of-Allah/issues)
+3. Have a discussion in (https://github.com/MohammedAbidNafi/99-Names-of-Allah/discussions)
 
 ### To make changes to code
 
-1. Fork it (https://github.com/MohammedAbidNafi/MessengerByMargs/fork)
+1. Fork it (https://github.com/MohammedAbidNafi/99-Names-of-Allah/fork)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

@@ -6,6 +6,9 @@ This app contains 99 names of Allah with English Meaning, English Transliteratio
 This app is completely free but Ad Supported if you want to support us support us by leaving a review.
 And you can use this app without internet you can use it offline.  
 
+## ScreenShots
+<img src="Screensscreenshot.png" width="250" height="500">
+
 ## Road Map
 1. Add Translation and Transliteration for more languages
 2. Splash Screen

@@ -7,7 +7,7 @@ This app is completely free but Ad Supported if you want to support us support u
 And you can use this app without internet you can use it offline.  
 
 ## ScreenShots
-<img src="Screensscreenshot.png" width="250" height="500">
+<img src="Screenshots/screenshot.png" width="250" height="500">
 
 ## Road Map
 1. Add Translation and Transliteration for more languages

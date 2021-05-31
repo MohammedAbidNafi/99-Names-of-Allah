@@ -11,7 +11,7 @@ And you can use this app without internet you can use it offline.
 
 ## Road Map
 1. Add Translation and Transliteration for more languages
-2. Splash Screen
+2. <s>Splash Screen</s>
 3. Dark Mode 
 
 ## Ways to Contribute 
